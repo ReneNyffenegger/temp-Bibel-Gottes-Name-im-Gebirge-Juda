@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Gottes-Name-im-Gebirge-Juda.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7fffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7fffff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Gottes Name im Gebirge Juda</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>35.22244218345976</longitude>
+			<latitude>31.90289726692392</latitude>
+			<altitude>0</altitude>
+			<heading>94.11772364392998</heading>
+			<tilt>0</tilt>
+			<range>37688.56224423393</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Placemark>
+			<name>JHWH</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					35.22674337220599,31.92337429846324,0 35.24556455652443,31.92406395363471,0 35.2402672889771,31.88624204785953,0 35.22432927215446,31.88800248891976,0 35.22674337220599,31.92337429846324,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Gibea</name>
+			<LookAt>
+				<longitude>35.23072707877186</longitude>
+				<latitude>31.8229921823321</latitude>
+				<altitude>0</altitude>
+				<heading>-6.793821123868665e-08</heading>
+				<tilt>0</tilt>
+				<range>3879.362630578749</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.23072707877185,31.8229921823321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramalla</name>
+			<LookAt>
+				<longitude>35.20342664265271</longitude>
+				<latitude>31.90374430423132</latitude>
+				<altitude>0</altitude>
+				<heading>1.749682931062201e-06</heading>
+				<tilt>0</tilt>
+				<range>7348.830062570639</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.20342664265272,31.90374430423132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jerusalem</name>
+			<LookAt>
+				<longitude>35.21371022810224</longitude>
+				<latitude>31.76831959516287</latitude>
+				<altitude>0</altitude>
+				<heading>1.200925747804276e-07</heading>
+				<tilt>0</tilt>
+				<range>29360.31107137891</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.21371022810224,31.76831959516287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Silo</name>
+			<LookAt>
+				<longitude>35.2990833076902</longitude>
+				<latitude>32.0543854419528</latitude>
+				<altitude>0</altitude>
+				<heading>0.01021043323223781</heading>
+				<tilt>0</tilt>
+				<range>3786.627845308217</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.2990833076902,32.0543854419528,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
